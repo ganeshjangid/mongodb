@@ -1,0 +1,25 @@
+{
+  "name": "mongodb",
+  "version": "1.0.0",
+  "description": "this is mongodb basic learn from hitesh choudhary youtube series",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ganeshjangid/mongodb_mocha.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ganeshjangid/mongodb_mocha/issues"
+  },
+  "homepage": "https://github.com/ganeshjangid/mongodb_mocha#readme",
+  "dependencies": {
+    "mocha": "^6.2.2",
+    "mongoose": "^5.8.1"
+  }
+}
