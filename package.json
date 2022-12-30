@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/ganeshjangid/mongodb_mocha#readme",
   "dependencies": {
-    "mocha": "^6.2.2",
+    "mocha": "^10.2.0",
     "mongoose": "^5.8.1"
   }
 }
